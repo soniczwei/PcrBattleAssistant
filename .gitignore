@@ -1,0 +1,28 @@
+# Build outputs
+bin/
+obj/
+out/
+publish/
+
+# Visual Studio / IDE
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+
+# Logs & temp
+*.log
+*.tmp
+*.cache
+
+# Resource files (sprite sheets, sliced icons, metadata, sync state)
+Assets/
